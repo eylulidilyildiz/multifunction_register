@@ -1,0 +1,11 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Lenovo/OneDrive/Masast/CS 223/verilog projects/multifunction_register_project/multifunction_register_project.srcs/sources_1/new/multifunction_register.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module multifunction_register
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Lenovo/OneDrive/Masast/CS 223/verilog projects/multifunction_register_project/multifunction_register_project.srcs/sources_1/new/mux4_1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux4_1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Lenovo/OneDrive/Masast/CS 223/verilog projects/multifunction_register_project/multifunction_register_project.srcs/sources_1/new/resettable_DFlipFlop.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module resettable_DFlipFlop
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Lenovo/OneDrive/Masast/CS 223/verilog projects/multifunction_register_project/multifunction_register_project.srcs/sim_1/new/multifunction_register_tb.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module multifunction_register_tb
+ERROR: [VRFC 10-2989] 'S1' is not declared [C:/Users/Lenovo/OneDrive/Masast/CS 223/verilog projects/multifunction_register_project/multifunction_register_project.srcs/sim_1/new/multifunction_register_tb.sv:44]
+ERROR: [VRFC 10-2989] 'D3' is not declared [C:/Users/Lenovo/OneDrive/Masast/CS 223/verilog projects/multifunction_register_project/multifunction_register_project.srcs/sim_1/new/multifunction_register_tb.sv:47]
+ERROR: [VRFC 10-8530] module 'multifunction_register_tb' is ignored due to previous errors [C:/Users/Lenovo/OneDrive/Masast/CS 223/verilog projects/multifunction_register_project/multifunction_register_project.srcs/sim_1/new/multifunction_register_tb.sv:22]
